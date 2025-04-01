@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app/[locale]/error.tsx -> ./_components/error\":{\"id\":\"app/[locale]/error.tsx -> ./_components/error\",\"files\":[\"static/chunks/_app-pages-browser_app_locale__components_error_tsx.js\"]}}"
